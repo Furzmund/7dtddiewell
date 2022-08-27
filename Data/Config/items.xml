@@ -296,7 +296,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="17"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Axe/fireaxe_ironPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="EconomicValue" value="350"/>
@@ -435,7 +435,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="63"/>
 	<property name="Meshfile" value="#Other/Items?Tools/pickaxe_ironPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy1"/>
@@ -627,7 +627,7 @@ Mesh files no longer used:
 	<property name="Tags" value="melee,grunting,medium,tool,longShaft,shovel,attStrength,perkMiner69r,perkMotherLode,canHaveCosmetic"/>
 	<property name="Meshfile" value="#Other/Items?Tools/shovel_ironPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="350"/>
 	<property name="SellableToTrader" value="true"/>
 	<property name="UnlockedBy" value="perkMiner69r,meleeToolIronSetSchematic"/>
@@ -885,7 +885,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="29"/>
 	<property name="Meshfile" value="#Other/Items?Tools/wrenchPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy"/>
@@ -1199,7 +1199,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="36"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Knives/hunting_knifePrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="350"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -2641,7 +2641,7 @@ needed?
 	<property name="HoldType" value="33"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/SledgeHammer/ironSledgehammerPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy1"/>
