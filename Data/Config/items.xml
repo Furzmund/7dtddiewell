@@ -5343,7 +5343,7 @@ needed?
 	<property name="HoldType" value="26"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/IronCrossbow/IronCrossbowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="500"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -5432,7 +5432,7 @@ needed?
 	<property name="HoldType" value="69"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/AdvancedBow/AdvancedCompoundCrossbow/AdvancedCompoundCrossbowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="1000"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
