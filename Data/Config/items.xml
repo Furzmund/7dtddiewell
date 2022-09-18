@@ -161,7 +161,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="32"/>
 	<property name="Meshfile" value="#Other/Items?Tools/hammerPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
@@ -2725,7 +2725,7 @@ needed?
 	<property name="HoldType" value="33"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/SledgeHammer/steelSledgeHammerPrefab.prefab"/>
 	<property name="Material" value="MmeleeWpnSledgeParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy1"/>
@@ -5144,7 +5144,7 @@ needed?
 	<property name="HoldType" value="68"/> <!-- "Sway Off" is hardcoded for hold types 26, 27, 53 -->
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/AdvancedBow/AdvancedWoodenBow/AdvancedWoodenBowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceWood"/>
 	<property name="EconomicValue" value="500"/>
 	<property name="EconomicBundleSize" value="1"/>
 	<property name="SellableToTrader" value="true"/>
@@ -5248,7 +5248,7 @@ needed?
 	<property name="HoldType" value="53"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/advancedBow/advancedCompoundBow/advancedCompoundBowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
@@ -5343,7 +5343,7 @@ needed?
 	<property name="HoldType" value="26"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/IronCrossbow/IronCrossbowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="500"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -5432,7 +5432,7 @@ needed?
 	<property name="HoldType" value="69"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/AdvancedBow/AdvancedCompoundCrossbow/AdvancedCompoundCrossbowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="1000"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
