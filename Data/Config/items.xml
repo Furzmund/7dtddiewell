@@ -5144,7 +5144,7 @@ needed?
 	<property name="HoldType" value="68"/> <!-- "Sway Off" is hardcoded for hold types 26, 27, 53 -->
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/AdvancedBow/AdvancedWoodenBow/AdvancedWoodenBowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceWood"/>
 	<property name="EconomicValue" value="500"/>
 	<property name="EconomicBundleSize" value="1"/>
 	<property name="SellableToTrader" value="true"/>
@@ -5248,7 +5248,7 @@ needed?
 	<property name="HoldType" value="53"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/advancedBow/advancedCompoundBow/advancedCompoundBowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
