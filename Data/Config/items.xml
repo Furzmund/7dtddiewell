@@ -224,7 +224,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="37"/>
 	<property name="Meshfile" value="#Other/Items?Tools/nailgunPrefab.prefab"/>
 	<property name="Material" value="MmechanicalParts"/> <property name="Weight" value="10"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="CrosshairUpAfterShot" value="true"/>
@@ -508,7 +508,7 @@ Mesh files no longer used:
 	<property name="DisplayType" value="melee"/>
 	<property name="HoldType" value="4"/>
 	<property name="Meshfile" value="#Other/Items?Tools/pickaxe_steelPrefab.prefab"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="700"/>
 	<property name="Material" value="MmeleeToolAllSteel"/> <property name="Weight" value="6"/>
 	<property name="UnlockedBy" value="meleeToolSteelSetSchematic"/>
@@ -672,7 +672,7 @@ Mesh files no longer used:
 	<property name="Meshfile" value="#Other/Items?Tools/shovel_steelPrefab.prefab"/>
 	<property name="CustomIcon" value="meleeToolShovelT1IronShovel"/>
 	<property name="CustomIconTint" value="a0a0ff"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="1000"/>
 	<property name="Material" value="MmeleeToolAllSteel"/> <property name="Weight" value="6"/>
 	<property name="UnlockedBy" value="meleeToolSteelSetSchematic"/>
@@ -718,7 +718,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="19"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Chainsaw/chainsawPrefab.prefab"/>
 	<property name="Material" value="MMotorToolParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundIdle" value="chainsaw_idle"/>
 	<property name="Group" value="Tools/Traps"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
@@ -802,7 +802,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="20"/>
 	<property name="Meshfile" value="#Other/Items?Tools/auger/augerPrefab.prefab"/>
 	<property name="Material" value="MMotorToolParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundIdle" value="auger_idle"/>
 	<property name="Particles_muzzle_smoke" value="nozzlesmoke_chainsaw"/>
 	<property name="Group" value="Tools/Traps"/>
@@ -958,7 +958,7 @@ Mesh files no longer used:
 	<property name="DisplayType" value="melee"/>
 	<property name="HoldType" value="72"/>
 	<property name="Meshfile" value="#Other/Items?Tools/ratchetPrefab.prefab"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy"/>
@@ -1027,7 +1027,7 @@ Mesh files no longer used:
 	<property name="DisplayType" value="melee"/>
 	<property name="HoldType" value="74"/>
 	<property name="Meshfile" value="#Other/Items?Tools/impactDriverPrefab.prefab"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="metaldestroy"/>
@@ -1300,7 +1300,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="36"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Candycane/candycaneShivPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="350"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -1399,7 +1399,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="47"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Knives/machetePrefab.prefab"/>
 	<property name="Material" value="MmeleeWpnBladeParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="700"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -1588,7 +1588,7 @@ Mesh files no longer used:
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Bat/bat_Prefab.prefab"/>
 	<property name="HoldType" value="65"/>
 	<property name="Material" value="Mwood"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="EconomicBundleSize" value="1"/>
@@ -1677,7 +1677,7 @@ Mesh files no longer used:
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Candycane/candycanePrefab.prefab"/>
 	<property name="HoldType" value="2"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="EconomicBundleSize" value="1"/>
@@ -1753,7 +1753,7 @@ Mesh files no longer used:
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/ClubIron/ClubIronPrefab.prefab"/>
 	<property name="HoldType" value="2"/>
 	<property name="Material" value="MmeleeWpnClubParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="EconomicBundleSize" value="1"/>
@@ -1935,7 +1935,7 @@ Mesh files no longer used:
 	<property name="HoldType" value="58"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab"/>
 	<property name="Material" value="MmeleeWpnBatonParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="350"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
@@ -2168,7 +2168,7 @@ needed?
 	<!-- <property name="HoldType" value="58"/> -->
 	<!-- <property name="Meshfile" value="#Other/Items?Weapons/Melee/TaserBaton/TaserBatonPrefab.prefab"/> -->
 	<!-- <property name="Material" value="MmeleeWpnBatonParts"/> <property name="Weight" value="4"/> -->
-	<!-- <property name="RepairTools" value="resourceRepairKit"/> -->
+	<!-- <property name="RepairTools" value="resourceScrapIron"/> -->
 	<!-- <property name="DegradationBreaksAfter" value="false"/> -->
 	<!-- <property name="EconomicValue" value="350"/> -->
 	<!-- <property name="SoundJammed" value="ItemNeedsRepair"/> -->
@@ -2450,7 +2450,7 @@ needed?
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Spear/spear_iron_Prefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
 	<property name="StickyMaterial" value="#Other/Items?Weapons/Melee/Spear/Materials/spearIron_sticky.mat"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="EconomicValue" value="350"/>
 	<property name="SellableToTrader" value="true"/>
 	<property name="UnlockedBy" value="perkJavelinMaster,meleeWpnSpearT1IronSpearSchematic"/>
@@ -2897,7 +2897,7 @@ needed?
 	<property name="Material" value="Mmetal"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Knuckles/knucklesRight_Prefab.prefab"/>
 	<property name="HoldType" value="61"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
@@ -3064,7 +3064,7 @@ needed?
 	<property name="HoldType" value="50"/>
 	<property name="Meshfile" value="#Other/Items?Tools/hoe_ironPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
@@ -3437,7 +3437,7 @@ needed?
 	<property name="HoldType" value="1"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Pistol/PistolPrefab.prefab"/>
 	<property name="Material" value="MHandGunParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -3525,7 +3525,7 @@ needed?
 	<property name="HoldType" value="6"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/SMG/SMGPrefab.prefab"/>
 	<property name="Material" value="MHandGunParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -3619,7 +3619,7 @@ needed?
 	<property name="HoldType" value="44"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Magnums/magnumPrefab.prefab"/>
 	<property name="Material" value="MHandGunParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -3712,7 +3712,7 @@ needed?
 	<property name="HoldType" value="75"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Desert Eagle/DesertEaglePrefab.prefab"/>
 	<property name="Material" value="MHandGunParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -3885,7 +3885,7 @@ needed?
 	<property name="HoldType" value="56"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/DoubleBarrelShotgun/doubleBarrelShotgunPrefab.prefab"/>
 	<property name="Material" value="MShotgunParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -3968,7 +3968,7 @@ needed?
 	<property name="HoldType" value="5"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Pump Shotgun/pumpShotgunPrefab.prefab"/>
 	<property name="Material" value="MShotgunParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -4052,7 +4052,7 @@ needed?
 	<property name="HoldType" value="76"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Auto Shotgun/autoShotgunPrefab.prefab"/>
 	<property name="Material" value="MShotgunParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -4313,7 +4313,7 @@ needed?
 	<property name="HoldType" value="30"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/HuntingRifle/HuntingRiflePrefab.prefab"/>
 	<property name="Material" value="MRifleParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="ItemNeedsRepair"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -4406,7 +4406,7 @@ needed?
 	<property name="HoldType" value="85"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/LeverActionRifle/leverActionRiflePrefab.prefab"/>
 	<property name="Material" value="MRifleParts"/> <property name="Weight" value="5"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -4503,7 +4503,7 @@ needed?
 	<property name="HoldType" value="77"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Sharp Shooter/sharpShooterGunPrefab.prefab"/>
 	<property name="Material" value="MRifleParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="Attachments" value="meleeToolFlashlight02"/>
@@ -4685,7 +4685,7 @@ needed?
 	<property name="CrosshairOnAim" value="true"/> <!-- aimTest -->
 	<property name="CrosshairUpAfterShot" value="true"/> <!-- aimTest -->
 
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 
 	<property name="SoundJammed" value="weapon_jam"/>
@@ -4775,7 +4775,7 @@ needed?
 	<property name="CrosshairOnAim" value="true"/> <!-- aimTest -->
 	<property name="CrosshairUpAfterShot" value="true"/> <!-- aimTest -->
 
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 
 	<property name="SoundJammed" value="weapon_jam"/>
@@ -4863,7 +4863,7 @@ needed?
 	<property name="CrosshairOnAim" value="true"/> <!-- aimTest -->
 	<property name="CrosshairUpAfterShot" value="true"/> <!-- aimTest -->
 
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 
 	<property name="SoundJammed" value="weapon_jam"/>
@@ -4956,7 +4956,7 @@ needed?
 	<property name="HoldType" value="10"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/RocketLauncher/rocketlauncherPrefab.prefab"/>
 	<property name="Material" value="MRocketLauncherParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
 	<property name="CrosshairOnAim" value="true"/> <!-- aimTest -->
@@ -5526,7 +5526,7 @@ needed?
 	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 	<property name="HoldType" value="73"/>
 	<property name="Material" value="MJunkTurretParts"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="EconomicBundleSize" value="1"/>
@@ -5651,7 +5651,7 @@ needed?
 	<property name="Material" value="MJunkTurretParts"/> <property name="Weight" value="4"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="SoundJammed" value="weapon_jam"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="Group" value="Ammo/Weapons,Robotics"/>
 	<property name="Stacknumber" value="1"/>
 	<property name="EconomicValue" value="500"/>
@@ -5736,14 +5736,14 @@ needed?
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Junk Drone/junkDroneHeld_Prefab.prefab"/>
 	<property name="HoldType" value="78"/>
 	<property name="Material" value="MJunkTurretParts"/> <property name="Weight" value="6"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="SoundDestroy" value="wooddestroy1"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="EconomicBundleSize" value="1"/>
 	<property name="EconomicValue" value="700"/>
 	<property name="UnlockedBy" value="gunBotT3JunkDroneSchematic"/>
 	<property name="ShowQuality" value="true"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
   <property name="TintColor" value="255,167,0"/>
   
 	<!--
@@ -8729,7 +8729,7 @@ add knockdown resist to armor
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
 	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/> <!-- 1 resourceRepairKit is worth 2000 -->
+	<property name="RepairTools" value="resourceScrapIron"/> <!-- 1 resourceRepairKit is worth 2000 -->
 	<property name="Stacknumber" value="50"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="750"/>
@@ -9192,7 +9192,7 @@ add knockdown resist to armor
 	<property name="CustomIcon" value="armorLeatherHood"/>
 	<property name="DisplayType" value="armorLight"/>
 	<property name="Material" value="Mleather"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="HoldType" value="45"/>
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
@@ -9353,7 +9353,7 @@ add knockdown resist to armor
 	<property name="CustomIcon" value="armorMilitaryHelmet"/>
 	<property name="DisplayType" value="armorLight"/>
 	<property name="Material" value="MarmorMilitarySet"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="HoldType" value="45"/>
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
@@ -9689,7 +9689,7 @@ add knockdown resist to armor
 	<property name="CustomIcon" value="armorIronHelmet"/>
 	<property name="DisplayType" value="armorHeavy"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="HoldType" value="45"/>
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
@@ -9857,7 +9857,7 @@ add knockdown resist to armor
 	<property name="CustomIcon" value="armorSteelHelmet"/>
 	<property name="DisplayType" value="armorHeavy"/>
 	<property name="Material" value="MarmorSteelSet"/> <property name="Weight" value="4"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="HoldType" value="45"/>
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
@@ -10029,7 +10029,7 @@ add knockdown resist to armor
 	<property name="UnlockedBy" value="perkArtOfMiningLantern"/>
 	<!-- <property name="Class" value="ItemClassToggle"/> -->
 	<property name="Material" value="Mplastics"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="Weight" value="10"/>
 	<property name="EconomicValue" value="500"/>
 	<property name="Degradation" value="250" param1="true"/>
@@ -10074,7 +10074,7 @@ add knockdown resist to armor
 	<property name="DisplayType" value="armorHeavyHeatResist"/>
 	<property name="Waterproof" value=".15"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="Weight" value="60"/>
 	<property name="EconomicValue" value="1200"/>
 	<property name="Degradation" value="250" param1="true"/>
@@ -10124,7 +10124,7 @@ add knockdown resist to armor
 	<property name="DisplayType" value="armorHeavy"/>
 	<property name="Waterproof" value=".15"/>
 	<property name="Material" value="Mmetal"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="Weight" value="120"/>
 	<property name="EconomicValue" value="1000"/>
@@ -10166,7 +10166,7 @@ add knockdown resist to armor
 	<property name="DisplayType" value="armorLight"/>
 	<property name="Waterproof" value=".15"/>
 	<property name="Material" value="Mplastics"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="Weight" value="10"/>
 	<property name="EconomicValue" value="400"/>
@@ -17974,7 +17974,7 @@ perkNightStalkerSilentNight
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
 	<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 	<property name="Material" value="MsmallEngine"/>
-	<property name="RepairTools" value="resourceRepairKit"/>
+	<property name="RepairTools" value="resourceScrapIron"/>
 	<property name="Stacknumber" value="1"/>
 	<property name="Material" value="MmechanicalParts"/> <property name="Weight" value="200"/>
 	<property name="EconomicValue" value="1000"/>
