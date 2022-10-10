@@ -1,10 +1,9 @@
 #!/bin/bash
 
 
-NamesToFile() {
-    # Write the names given in an
-    # array to the filename given
-    # $1 = array of names
+ArrayToFile() {
+    # Write the given array to a file
+    # $1 = array
     # $2 = filename
     _names=$1[@]
     names=("${!_names}")
@@ -19,7 +18,7 @@ ARCHIVE_NAME="$INSTALL_ROOT/backup.tar.gz"
 
 if [ ! -f "$ARCHIVE_NAME" ]; then
     echo "Backing up original XML files .."
-    NamesToFile INSTALL_LIST backup.list
+    ArrayToFile INSTALL_LIST backup.list
     tar -czvf "$ARCHIVE_NAME" --directory="$INSTALL_ROOT" --files-from=backup.list
     echo
     echo "Backed up to"
