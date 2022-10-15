@@ -11,24 +11,25 @@ ArrayToFile() {
 }
 
 
-declare ROOT_7DTD=""
 declare DEFAULT_7DTD_PATH="$HOME/.local/share/Steam/steamapps/common/7 Days To Die"
 
-if [ -z "$1" ]; then
-    echo "No 7DTD path given. Checking default path .."
-    if [ ! -d "$DEFAULT_7DTD_PATH" ]; then
-        echo "7DTD could not be found in the default path"
-        read -p "Enter the path of 7DTD: " ROOT_7DTD
-        if [ ! -d $ROOT_7DTD ]; then
-            echo "Could not find 7DTD at given path"
-            echo "  $ROOT_7DTD"
-            exit 1
+if [ -z "$ROOT_7DTD" ]; then
+    if [ -z "$1" ]; then
+        echo "No 7DTD path given. Checking default path .."
+        if [ ! -d "$DEFAULT_7DTD_PATH" ]; then
+            echo "7DTD could not be found in the default path"
+            read -p "Enter the path of 7DTD: " ROOT_7DTD
+            if [ ! -d $ROOT_7DTD ]; then
+                echo "Could not find 7DTD at given path"
+                echo "  $ROOT_7DTD"
+                exit 1
+            fi
+        else
+            ROOT_7DTD="$DEFAULT_7DTD_PATH"
         fi
     else
-        ROOT_7DTD="$DEFAULT_7DTD_PATH"
+        ROOT_7DTD="$1"
     fi
-else
-    ROOT_7DTD="$1"
 fi
 
 declare INSTALL_LIST=("Data/Config/items.xml" "Data/Config/recipes.xml" "Data/Config/vehicles.xml")
