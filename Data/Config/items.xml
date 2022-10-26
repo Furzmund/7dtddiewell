@@ -7025,7 +7025,7 @@ needed?
 
 <item name="ammo762mmBulletBall">
 	<property name="Extends" value="ammo9mmBulletBall"/>
-	<property name="Stacknumber" value="150"/> <!-- STK ammo low -->
+	<property name="Stacknumber" value="300"/> <!-- STK ammo low -->
 	<property name="EconomicValue" value="11"/>
 	<effect_group name="ammo762mmBulletBall" tiered="false">
 		<passive_effect name="EntityDamage" operation="base_set" value="47" tags="perkDeadEye,perkMachineGunner"/>
