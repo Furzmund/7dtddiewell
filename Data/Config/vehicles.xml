@@ -431,7 +431,7 @@ Forces:
 			<property name="mesh" value="engine_small"/>
 			<property name="transform" value="engine_small"/>
 			<property name="particle_transform" value="engine_small/MinibikeParticles/p_engine_fire"/>
-			<property name="fuelKmPerL" value="4.0"/>
+			<property name="fuelKmPerL" value="2.0"/>
 			<property name="foodDrain" value=".002,.0122"/><!-- driving/turbo, minibike -->
 				<!-- this value is written to the _vehicleFood cvar and then added to the food/water drain of the player -->
 			<property name="gear1" value="
@@ -524,7 +524,7 @@ Forces:
 			<property name="mesh" value="engine_small"/>
 			<property name="transform" value="engine_small"/>
 			<property name="particle_transform" value="engine_small/MinibikeParticles/p_engine_fire"/>
-			<property name="fuelKmPerL" value="2"/>
+			<property name="fuelKmPerL" value="2.0"/>
 			<property name="foodDrain" value=".002,.0101"/><!-- driving/turbo, motorcycle -->
 			<property name="gear1" value="
 								500,2500, -1400,800,0, 700,2000,900,
@@ -667,7 +667,7 @@ Forces:
 			<property name="mesh" value="engine_small"/>
 			<property name="transform" value="engine_small"/>
 			<property name="particle_transform" value="engine_small/MinibikeParticles/p_engine_fire"/>
-			<property name="fuelKmPerL" value="4.0"/>
+			<property name="fuelKmPerL" value="2.0"/>
 			<property name="foodDrain" value=".002,.00811"/><!-- driving/turbo, truck -->
 			<property name="gear1" value="
 								500,2500, -1400,800,0, 700,2200,900,
